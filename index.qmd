@@ -1,0 +1,201 @@
+--- 
+title: "Some notes on Data Literacy Education"
+author: Sonja Hahn
+format: 
+  revealjs:
+    preview-links: auto
+    theme: [default, custom.scss]
+    toc: true
+    toc-depth: 1
+    slide-number: true
+    chalkboard: true
+--- 
+
+
+# Wohin geht's?
+
+
+## Karte 
+
+<iframe class="stretch" data-src="https://www.openstreetmap.org/export/embed.html?bbox=8.626928329467775%2C49.862015748392665%2C8.64701271057129%2C49.87124099282192&amp;layer=mapnik"></iframe>
+
+
+## Stellenwechsel
+
+* [Hochschule Darmstadt](https://h-da.de/), angedockt an Data Science
+* Aufbau: studiengangübergreifendes  
+Angebot Data Literacy (Lehre)
+* Blueprint: [Data8](https://data.berkeley.edu/education/courses/data-8) 
+(UC Berkeley)
+* Zunächst Projekt (2 Jahre, 75%): 
+  + 6 Monate Planung
+  + dann: je Semester 2 Gruppen á 2+2 Stunden
+* Unterstützung: Sebastian Döhler,  
+Laboringenieur, Tutor_innen
+
+
+
+::: {.notes}:
+* Angedockt an Data Literacy-Studiengang (Mathe und Informatik)
+* Data Science Light, inkl. Einführung in Programmierung
+* Textbook: Schönes Beispiel für subjektive Priors am Ende
+:::
+
+## Persönliche Ziele
+
+1. **Profilbildung**: Schnittbereich Quanti-Methoden und Digitalisierung
+2. Grundgedanke: **Aktive Mediennutzung**  (Michael Kerres, Escape-Room-Paper)
+3. **Perspektiven**: Python lernen, Data Science, evtl. Machine Learning 
+
+
+# Ressourcen & Challenges
+
+## Neues (?) Thema
+
+* Teilweise vorhanden  
+(Überschneidung mit bisherigen Themen)
+* *Interessante Literatur?*  
+(Überblick, wissenschaftlich, für Studierende)
+* Neue Studierendengruppe/breite Zielgruppe  
+  + *Wie spreche ich diese an?*  
+  + *Umgang mit Heterogenität*
+
+
+## Lehre: Fokus 
+
+* Einfacher Zugang zum Thema
+  + Grundlegende Konzepte
+  + Beispiele/Datensätze (Alltag, Umwelt, Fach/Beruf)
+  + Shiny-Apps
+  + Online-Umgebungen (PsychNotebook)
+  + Code: eher Basics, "ortsüblicher Zugang"
+* Projektseminare
+  + Themenwahl in Gruppen (Andreas Frey)
+  + Beispielprojekte/kumulativ (Webquests)
+  + Abschlusspräsentation
+* Moodle als Plattform
+
+
+:::{.notes}:
+* Bernhard: Berlin: Personenprofile anhand von Bewegungsdaten
+:::
+
+## Lehre: Ideensammlung
+
+* *Wie lernt ihr Code?* (auch Lernstrategien)
+  + DataCamp, ...
+  
+* *Sinnvolle Quellen*
+  + Programmierung: Christian Spannagel 
+  + Shiny-Apps?
+  + Datensätze?
+  + R-Tipps???
+  
+* *Weitere sachdienliche Hinweise* 
+
+## Forschung, Publikationen, Anträge
+
+*Was kann ich tun, damit das nicht untergeht?*
+
+* Design Based Research?
+* Mikro-Perspektive: Shiny-Apps für Lernen optimieren (Pilot)
+* Makro-Perspektive: Gesamt-/Teilkonzepte <https://jose.theoj.org/>
+* Thema Data Literacy (Markus Wirtz)
+* WerkBar 
+* ...
+
+::: {.notes}:
+* WerkBar: Werkstätten, Barcamp, Peerfeedback, DataScience-Teams
+* Daten (Moodle, Webquests) / Evaluationsdaten / Tests mit einbauen
+* Anträge besonders wichtig!
+:::
+
+
+## Verortung an der Hochschule
+
+
+* Einbindung in die Studiengänge
+
+* Gremienarbeit
+
+* Internationaler [Hochschulverbund](https://www.univ-tech.eu/) 
+  + evtl. eine Gruppe hochschulübergreifend
+  
+* Tutor_innen
+
+::: {.notes}:
+* Einbindung in die Studiengänge 
+  + Anreiz: CPs? Zertifikat?
+  + Thematische Einbindung
+  + evtl. perspektivisch weitere Angebote (Werkstätten)
+
+* Gremienarbeit: *Wie komme ich da rein? Was ist sinnvoll?*
+
+* Hochschulverbund
+  + Online - Corona (Flipped Classroom, Lernpfade/Webquests, Interaktivität)
+  + Modularer Aufbau 
+  + Deutsch- und englischsprachige Materialien
+  + Internationalisierung
+  
+* Tutor_innen: Bindeglied
+  + Konzept von Andreas Frey
+  + Wie komme ich an Tutor_innen
+
+:::
+
+# Netzwerke & Kooperationen
+
+## Netzwerke
+
+* Vor Ort:
+  + Data Science Arbeitsgruppe
+  + Brückenkurse
+  + ...
+  
+* In Karlsruhe:
+  + PH: aktuelle Arbeitsgruppe, Physik, Informatik, Deutsch, Fabian
+  + KIT: [Data Literacy](https://www.zak.kit.edu/dali.php), Lucia Happe/Kay Marquardt
+* m.powerment (Markus Wirtz, Peers)
+* [Science Media Center](https://www.sciencemediacenter.de/)
+
+::: {.notes}:
+* Stakeholder-Analyse
+:::
+
+## mehr Netzwerke
+
+* Gruppierungen
+  + [Toolbox Datenkompetenz](https://toolboxdatenkompetenz.de/)
+  + [Stifterverband](https://www.stifterverband.org/data-literacy-education)
+  + [DGPs](https://www.dgps.de/)/[DAGStat](https://www.dagstat.de/)
+
+* Weitere (noch nicht kontaktiert)
+  + Bamberg (Stelle im ähnlichen Bereich)
+  + Markus Vogel (PH Heidelberg)
+  + Katharina Schüller (Framework)
+  + UC Berkeley (Austausch?)
+ 
+## Kooperationsbereiche/-strategien
+
+<iframe class="stretch" data-src="https://miro.com/app/board/uXjVMfa3t0w=/"></iframe>
+
+
+::: {.notes}:
+* aktuelle Paper
+* Lehre
+* Ateliergespräch Gregor
+* News (R, Moodle...)
+:::
+
+# Rückblick
+
+Aus der heutigen Runde,   
+aus den vergangenen Jahren,  
+gerne als Blitzlicht!
+
+
+##  {background-color="#f0dec5"}
+
+
+![](InDiKo_danke.svg)
+
