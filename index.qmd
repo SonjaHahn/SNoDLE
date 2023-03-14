@@ -1,5 +1,6 @@
 --- 
 title: "Some notes on Data Literacy Education"
+subtitle: <https://sonjahahn.github.io/SNoDLE/>
 author: Sonja Hahn
 format: 
   revealjs:
